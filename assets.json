@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D neon cyan water droplet, centered, dark navy radial gradient background, crisp specular highlight, soft outer glow, no text, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, very dark deep navy underwater scene with faint cyan light shafts from above, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, neon water puzzle field, glowing cyan and violet droplets falling through dark navy liquid, vibrant 3D render, high contrast, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, softly blurred dark navy water surface with dim cyan caustics, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_droplet_cyan",
+      "type": "sprite",
+      "prompt": "One single glossy 3D cyan water droplet, centered icon, glossy render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_droplet_violet",
+      "type": "sprite",
+      "prompt": "One single glossy 3D violet purple water droplet, centered icon, glossy render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_droplet_gold",
+      "type": "sprite",
+      "prompt": "One single glossy 3D golden yellow water droplet, centered icon, glossy render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_paddle",
+      "type": "sprite",
+      "prompt": "One single sleek metallic blue chrome bar with rounded ends, horizontal, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_tank",
+      "type": "sprite",
+      "prompt": "One single empty tall vertical glass laboratory vial, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal mobile game CTA button background, cyan to violet neon gradient, glossy, rounded corners, soft glow, no text"
+    }
+  ]
+}

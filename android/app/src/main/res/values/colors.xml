@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand navy. Keeps the native launch window on-palette instead of
+         flashing pure black (dark mode) or pure white before Flutter paints. -->
+    <color name="splash_bg">#071322</color>
+</resources>
